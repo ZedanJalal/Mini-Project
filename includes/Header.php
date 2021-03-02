@@ -20,7 +20,7 @@
                 <span class="font-weight text-main-orange  larg">زێدان جەلال </span>
             </a>
             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in text-right"  aria-labelledby="userDropdown">
-                <a class="dropdown-item text-danger ml-1 font-weight" href="login.php"><i class="fas fa-power-off fa-sm fa-fw text-danger  mr-2"></i> چونەدەرەوە</a>
+                <a class="dropdown-item text-danger ml-1 font-weight" href="#"><i class="fas fa-power-off fa-sm fa-fw text-danger  mr-2"></i> چونەدەرەوە</a>
             </div>
         </li>  
     </ul>
